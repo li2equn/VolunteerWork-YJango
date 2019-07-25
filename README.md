@@ -10,4 +10,6 @@ This Readme file is a personal note for the references, ideas, and concepts. Not
 #### Tensorflow installation
 https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
 
+### concepts
+
 
